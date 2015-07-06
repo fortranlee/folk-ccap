@@ -1,9 +1,9 @@
 {
-  "targets":[{
+  "targets": [{
     "target_name": "hcaptha",
     "conditions": [
       ["OS==\"mac\"", {
-        "sources": ["addon/hcaptha.cc" ,"addon/cap.cc"],
+        "sources": ["addon/hcaptha.cc", "addon/cap.cc"],
         "libraries": [],
         "cflags_cc": ["-fexceptions","-Dcimg_display=0"],
         "xcode_settings": {
