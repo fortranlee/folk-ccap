@@ -4,7 +4,7 @@
     "email": "snoopyxdy@163.com",
     "url": "http://snoopyxdy.blog.163.com"
   },
-  "name": "ccap",
+  "name": "folk-ccap",
   "description": "node.js generate captcha using c++ library CImg without install any other lib or software",
   "keywords": [
     "node",
