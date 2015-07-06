@@ -1,5 +1,4 @@
-{
-  "targets": [{
+{"targets": [{
     "target_name": "hcaptha",
     "conditions": [
       ["OS==\"mac\"", {
