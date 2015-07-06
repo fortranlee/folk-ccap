@@ -14,11 +14,11 @@
     "CImg"
   ],
   "version": "0.5.3",
-  "url": "https://github.com/DoubleSpout/ccap",
-  "homepage": "https://github.com/DoubleSpout/ccap",
+  "url": "https://github.com/fortranlee/folk-ccap",
+  "homepage": "https://github.com/fortranlee/folk-ccap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DoubleSpout/ccap.git"
+    "url": "https://github.com/fortranlee/folk-ccap.git"
   },
   "main": "index.js",
   "engines": {
